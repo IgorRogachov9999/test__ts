@@ -24,7 +24,7 @@ namespace test__ts
                         .SetBasePath(context.HostingEnvironment.ContentRootPath)
                         .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                         .AddJsonFile(
-                            $"appsettings.{System.Environment.GetEnvironmentVariable("env")}.json",
+                            $"appsettings.{System.Environment.GetEnvironmentVariable("myCustomParam")}.json",
                             optional: true,
                             reloadOnChange: true)
                         .AddEnvironmentVariables()
