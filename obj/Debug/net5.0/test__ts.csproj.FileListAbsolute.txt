@@ -8,9 +8,7 @@ D:\New folder\New folder\test__ts\obj\Debug\net5.0\test__ts.RazorAssemblyInfo.ca
 D:\New folder\New folder\test__ts\obj\Debug\net5.0\test__ts.RazorAssemblyInfo.cs
 D:\New folder\New folder\test__ts\bin\Debug\net5.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
 D:\New folder\New folder\test__ts\bin\Debug\net5.0\Cosmos.CRTCompat.dll
-D:\New folder\New folder\test__ts\bin\Debug\net5.0\appsettings.Development.json
 D:\New folder\New folder\test__ts\bin\Debug\net5.0\appsettings.json
-D:\New folder\New folder\test__ts\bin\Debug\net5.0\appsettings.Test.json
 D:\New folder\New folder\test__ts\bin\Debug\net5.0\test__ts.exe
 D:\New folder\New folder\test__ts\bin\Debug\net5.0\test__ts.deps.json
 D:\New folder\New folder\test__ts\bin\Debug\net5.0\test__ts.runtimeconfig.json
@@ -54,3 +52,5 @@ D:\New folder\New folder\test__ts\obj\Debug\net5.0\test__ts.dll
 D:\New folder\New folder\test__ts\obj\Debug\net5.0\ref\test__ts.dll
 D:\New folder\New folder\test__ts\obj\Debug\net5.0\test__ts.pdb
 D:\New folder\New folder\test__ts\obj\Debug\net5.0\test__ts.genruntimeconfig.cache
+D:\New folder\New folder\test__ts\bin\Debug\net5.0\appsettings.1.json
+D:\New folder\New folder\test__ts\bin\Debug\net5.0\appsettings.2.json
