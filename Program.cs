@@ -18,14 +18,6 @@ namespace test__ts
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
-                .ConfigureAppConfiguration((context, config) =>
-                {
-                    var builtConfig = config
-                        .SetBasePath(context.HostingEnvironment.ContentRootPath)
-                        .AddJsonFile($"appsettings.{System.Environment.GetEnvironmentVariable("myCustomParam")}.json", optional: true)
-                        .AddEnvironmentVariables()
-                        .Build();
-                })
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
